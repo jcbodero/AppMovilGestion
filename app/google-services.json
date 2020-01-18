@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "38561528021",
+    "firebase_url": "https://amst-f8530.firebaseio.com",
+    "project_id": "amst-f8530",
+    "storage_bucket": "amst-f8530.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38561528021:android:ca5b15b190d5cdfd4e4a5c",
+        "android_client_info": {
+          "package_name": "espol.edu.gestionaplicacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38561528021-khg2ontc2o7afcgignata16qhgdi1oef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "espol.edu.gestionaplicacion",
+            "certificate_hash": "c84b1cbc8423a435e9a1b0200913d245a5c6c016"
+          }
+        },
+        {
+          "client_id": "38561528021-4nj4a57mab1se88k9s0mjjmhs30qdpij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKeOk9zqUPGdZ3onU4R7Kl77whScodFbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38561528021-4nj4a57mab1se88k9s0mjjmhs30qdpij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
